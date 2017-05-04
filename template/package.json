@@ -10,10 +10,8 @@
   "dependencies": {
     "vue": "^2.3.2",
     "vue-class-component": "^5.0.1",
-    "vue-property-decorator": "^5.0.1",
     "vue-typescript-decorators": "^0.2.0",
-    "vuex": "^2.3.1",
-    "vuex-class": "^0.2.0"
+    "vuex": "^2.3.1"
   },
   "devDependencies": {
     "cross-env": "^3.0.0",
